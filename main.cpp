@@ -22,6 +22,7 @@ void printArray(int *, size_t);
 void compareIntegers(void *, void *);
 
 int main(int argc, char* argv[]) {
+    fastcin
     cout << "===========================================================" << endl;
     cout << "\tSorts Practice" << endl;
     cout << "===========================================================" << endl << endl;

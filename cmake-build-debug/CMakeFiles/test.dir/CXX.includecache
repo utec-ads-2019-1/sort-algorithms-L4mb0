@@ -1,0 +1,136 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/bubble.h
+includess.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/includess.h
+sort.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/sort.h
+algorithm
+-
+
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/includess.h
+iostream
+-
+thread
+-
+string
+-
+vector
+-
+map
+-
+set
+-
+limits
+-
+queue
+-
+cmath
+-
+fstream
+-
+algorithm
+-
+bits/stdc++.h
+-
+future
+-
+array
+-
+
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/insert.h
+includess.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/includess.h
+sort.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/sort.h
+
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/main.cpp
+iostream
+-
+assert.h
+-
+string
+-
+mocker.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/mocker.h
+tester.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/tester.h
+bubble.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/bubble.h
+select.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/select.h
+insert.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/insert.h
+shell.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/shell.h
+quick.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/quick.h
+merge.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/merge.h
+
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/merge.h
+sort.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/sort.h
+includess.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/includess.h
+
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/mocker.h
+random
+-
+
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/quick.h
+sort.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/sort.h
+includess.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/includess.h
+
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/select.h
+sort.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/sort.h
+includess.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/includess.h
+
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/shell.h
+sort.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/sort.h
+
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/sort.h
+algorithm
+-
+includess.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/includess.h
+
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/tester.cpp
+tester.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/tester.h
+quick.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/quick.h
+
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/tester.h
+stdexcept
+-
+iostream
+-
+assert.h
+-
+sort.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/sort.h
+bubble.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/bubble.h
+select.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/select.h
+insert.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/insert.h
+shell.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/shell.h
+quick.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/quick.h
+merge.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/semana2/sort-algorithms-L4mb0/merge.h
+
