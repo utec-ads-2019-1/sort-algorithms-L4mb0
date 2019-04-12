@@ -38,6 +38,7 @@ void compareIntegers(void *elements, int first, int second) {
         swap(array[first], array[second]);
     }
 }
+// Implementaste toda la lógica dentro de los sorts
 
 void executeTests() {
     for (int i = 0; i < NUMBER_OF_TESTS; ++i) {
